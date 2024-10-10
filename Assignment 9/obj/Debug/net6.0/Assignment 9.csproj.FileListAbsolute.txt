@@ -1,0 +1,44 @@
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.csproj.AssemblyReference.cache
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.AssemblyInfoInputs.cache
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.AssemblyInfo.cs
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.csproj.CoreCompileInputs.cache
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.exe
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.deps.json
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.runtimeconfig.json
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Assignment 9.pdb
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Elmah.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\Std.UriTemplate.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.csproj.CopyComplete
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\refint\Assignment 9.dll
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.pdb
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\Assignment 9.genruntimeconfig.cache
+C:\Users\elene.mchedlidze.LB\Desktop\C#\Assignment 9\Assignment 9\obj\Debug\net6.0\ref\Assignment 9.dll

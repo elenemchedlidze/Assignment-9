@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OIPpIU4ix8gDBzbc7Il6zNIEcolYE0l5LtJYxj8qWI+L33bXsPqiTKRgqXgzBX/vNh0ZM02T8EUD3b9fTnJgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elene.mchedlidze.LB\\Desktop\\C#\\Assignment 9\\Assignment 9\\Assignment 9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\azure.core\\1.43.0\\azure.core.1.43.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\documentformat.openxml\\3.1.0\\documentformat.openxml.3.1.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\documentformat.openxml.framework\\3.1.0\\documentformat.openxml.framework.3.1.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\elmah.corelibrary\\1.2.2\\elmah.corelibrary.1.2.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.graph\\5.60.0\\microsoft.graph.5.60.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.graph.core\\3.1.22\\microsoft.graph.core.3.1.22.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.2\\microsoft.identitymodel.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.2\\microsoft.identitymodel.jsonwebtokens.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.2\\microsoft.identitymodel.logging.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.2\\microsoft.identitymodel.protocols.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.2\\microsoft.identitymodel.protocols.openidconnect.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.2\\microsoft.identitymodel.tokens.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.identitymodel.validators\\8.0.2\\microsoft.identitymodel.validators.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.abstractions\\1.13.0\\microsoft.kiota.abstractions.1.13.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.authentication.azure\\1.13.0\\microsoft.kiota.authentication.azure.1.13.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.http.httpclientlibrary\\1.13.0\\microsoft.kiota.http.httpclientlibrary.1.13.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.serialization.form\\1.12.3\\microsoft.kiota.serialization.form.1.12.3.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.serialization.json\\1.13.0\\microsoft.kiota.serialization.json.1.13.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.serialization.multipart\\1.12.3\\microsoft.kiota.serialization.multipart.1.12.3.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\microsoft.kiota.serialization.text\\1.12.3\\microsoft.kiota.serialization.text.1.12.3.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\std.uritemplate\\1.0.6\\std.uritemplate.1.0.6.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.2\\system.identitymodel.tokens.jwt.8.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512",
+    "C:\\Users\\elene.mchedlidze.LB\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'elmah.corelibrary 1.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "elmah.corelibrary",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
